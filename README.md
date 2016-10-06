@@ -1,1 +1,2 @@
 # Attributes-Related-to-Mortality-Rate-in-the-US-1960-
+The main objective of the paper is to determine the significant factor that affects the mortality rate during the 1960. It is very unlikely that only one factor would have influenced the mortality rate in the States. Therefore, it is important to analyze all the potential factors to determine the correlation. By the end of this analysis we will be able to compare the mortality rate before the 1960 and now.
